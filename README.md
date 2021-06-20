@@ -5,5 +5,5 @@ Using Jsoup to fetch the top 20 stock in terms of turnover
 ![]{top20stock_result.png "top20stock_result"}
 
 
-## Set environment to the Jsoup dependency
+### Set environment variable to the Jsoup dependency
 ![]{jsoup_setup.png "jsoup_setup"}
